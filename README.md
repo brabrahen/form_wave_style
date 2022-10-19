@@ -1,2 +1,2 @@
-# form_wave_style
+# Form Wave Style
 Week of projects
